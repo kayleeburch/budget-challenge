@@ -1,0 +1,15 @@
+options: 
+1.add expense(add category + expense cost)
+2.update monthly income (update csv file)
+3.view monthly expenses 
+4.expense breakdown(show percentage of all categories) (House, Food, Auto, Savings, and Leisure)
+5.view expense category(select category)
+
+create a csv file which will hold all expenses and montly income
+
+CSV file
+created
+
+Classes:
+Monthly Incomes
+Expenses
